@@ -1,2 +1,2 @@
 # Games
-some games
+Solving Sudoku by Python program
